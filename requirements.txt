@@ -1,0 +1,6 @@
+pysocks
+requests
+wget
+cfscrape
+urllib3
+scapy
